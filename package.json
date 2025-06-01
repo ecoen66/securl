@@ -1,6 +1,6 @@
 {
-  "name": "eurl",
-  "version": "1.0.0",
+  "name": "securl",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webex/eurl.git"
+    "url": "https://github.com/ecoen66/securl.git"
   },
   "bugs": {
-    "url": "https://github.com/webex/eurl/issues"
+    "url": "https://github.com/ecoen66/securl/issues"
   },
-  "homepage": "https://github.com/webex/eurl"
+  "homepage": "https://github.com/ecoen66/securl"
 }

@@ -4,7 +4,7 @@ Installation
 ------------
 
 ``` bash
-$ git clone https://github.com/webex/eurl.git
+$ git clone https://github.com/ecoen66/securl.git
 $ npm install
 ```
 
